@@ -1,6 +1,6 @@
 #BASIC BANK MANAGEMENT APPLICATION v1.0
 
-![Alt text](Basic_Bank_management_App/img/pythonmini1.png?raw=true "Optional Title")
+![Alt text](https://github.com/AsithaKanchana1/Basic_Bank_management_App/blob/main/img/pythonmini1.png?raw=true "Optional Title")
 
 ###Used Technologies 
 ####Python 3

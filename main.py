@@ -1,3 +1,5 @@
+#python -m PyInstaller --onefile main.py
+#Used Inno Setup For Installation Wizerd
 class Account:
     def __init__(self, account_number, balance):
         self.account_number = account_number

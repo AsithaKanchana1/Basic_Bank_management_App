@@ -21,5 +21,5 @@ This Files are only for Educational Purpus  Don't Use anything Directly to Comme
 
 #Code Image :
 
-![Alt text](https://github.com/AsithaKanchana1/Basic_Bank_management_App/blob/main/img/pythonmini1.png?raw=true "Optional Title")
+![Alt text](https://github.com/AsithaKanchana1/Basic_Bank_management_App/blob/main/img/pythonmini.png?raw=true "Optional Title")
 
